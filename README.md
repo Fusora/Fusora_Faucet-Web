@@ -1,5 +1,5 @@
 # fusora-faucet-web
-
+Deployed Link: https://fusorawallet.herokuapp.com/
 ## Project setup
 ```
 npm install
