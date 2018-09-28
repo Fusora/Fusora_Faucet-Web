@@ -10,9 +10,9 @@ npm run build
 cd dist
 
 # if you are deploying to a custom domain
-echo 'https://fusora.github.io/Fusora_Faucet-Web/' > CNAME
+# echo 'www.example.com' > CNAME
 
-git init https://<USERNAME>.github.io
+git init
 git add -A
 git commit -m 'deploy'
 
